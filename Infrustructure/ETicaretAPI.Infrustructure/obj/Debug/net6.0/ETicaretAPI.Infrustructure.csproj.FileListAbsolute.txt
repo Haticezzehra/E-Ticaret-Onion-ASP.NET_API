@@ -1,0 +1,12 @@
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\bin\Debug\net6.0\ETicaretAPI.Infrustructure.deps.json
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\bin\Debug\net6.0\ETicaretAPI.Infrustructure.dll
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\bin\Debug\net6.0\ETicaretAPI.Infrustructure.pdb
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\ETicaretAPI.Infrustructure.csproj.AssemblyReference.cache
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\ETicaretAPI.Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\ETicaretAPI.Infrustructure.AssemblyInfoInputs.cache
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\ETicaretAPI.Infrustructure.AssemblyInfo.cs
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\ETicaretAPI.Infrustructure.csproj.CoreCompileInputs.cache
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\ETicaretAPI.Infrustructure.dll
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\refint\ETicaretAPI.Infrustructure.dll
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\ETicaretAPI.Infrustructure.pdb
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Infrustructure\ETicaretAPI.Infrustructure\obj\Debug\net6.0\ref\ETicaretAPI.Infrustructure.dll

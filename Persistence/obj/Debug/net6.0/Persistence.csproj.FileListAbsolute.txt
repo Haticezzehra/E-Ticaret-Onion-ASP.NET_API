@@ -1,0 +1,17 @@
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Persistence\bin\Debug\net6.0\ETicaretAPI.Application.dll
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Persistence\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Persistence\bin\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Persistence\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Users\hatice.orhan\Desktop\ETicaretUygulaması\ETicaretAPI\Persistence\obj\Debug\net6.0\ref\Persistence.dll
