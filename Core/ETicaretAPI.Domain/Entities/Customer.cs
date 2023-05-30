@@ -13,3 +13,4 @@ namespace ETicaretAPI.Domain.Entities
         public ICollection<Order> Orders { get; set; }
     }
 }
+
